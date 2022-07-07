@@ -1,4 +1,5 @@
 .DS_Store
+*.lock
 
 # ignore data directory with large files
 data/
