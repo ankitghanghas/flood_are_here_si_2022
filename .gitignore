@@ -3,6 +3,7 @@
 
 # ignore data directory with large files
 data/
+data_github/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
